@@ -167,6 +167,10 @@
   url: https://github.com/embrace-io/embrace-web-sdk/
   docsUrl: https://embrace.io/docs/web/getting-started/
   components: [Javascript, React, Browser]
+- name: Embrace Web Distribution for OpenTelemetry
+  url: https://github.com/embrace-io/embrace-web-sdk/
+  docsUrl: https://embrace.io/docs/web/getting-started/
+  components: [Javascript, React, Browser]
 - name: Dynatrace Distribution of the OpenTelemetry Collector
   url: https://github.com/Dynatrace/dynatrace-otel-collector
   docsUrl: https://docs.dynatrace.com/docs/shortlink/opentelemetry-collector
